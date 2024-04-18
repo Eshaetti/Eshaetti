@@ -31,18 +31,12 @@
 </p>
 
 <p align="center">
- <a href="https://eshaetti.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="eshaetti" />
+ <a href="https://endex-system.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
  </a>
- <!-- <a href="https://dev.to/eshaetti" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="eshaetti" />
- </a> -->
- <a href="https://twitter.com/_eshaetti" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://discord.com/users/539834141450043435" target="_blank">
+  <img src="https://img.shields.io/badge/discord-%237489DA?style=for-the-badge&logo=discord&logoColor=white"/>
  </a>
- <a href="https://facebook.com/eshaetti.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="eshaetti"  />
-  </a> 
 </p>
 <br />
 
@@ -68,8 +62,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 
 <br/>
